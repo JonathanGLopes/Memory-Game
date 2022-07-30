@@ -1,4 +1,4 @@
-# Memory-Game
+# Jogo da memória
 
 Tecnologias utilizadas:
 <li> HTML </li>
